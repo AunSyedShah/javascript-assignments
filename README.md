@@ -1,4 +1,3 @@
 # Syed Aun Muhammad
+# Student ID : IOT047568
 ## https://facebook.com/AunSyedShah
-### parially completed the assignments
-#### coding the rest ASAP
